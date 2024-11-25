@@ -1,3 +1,4 @@
-## 0.0.1
+## [0.0.1] - 2024-11-25
 
-* TODO: Describe initial release.
+* Création du package initial.
+* Destiné à l'apprentissage de la création de package Flutter.
