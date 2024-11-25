@@ -1,7 +1,8 @@
 name: bargi_package
-description: "Mon premier package"
+description: "Mon premier package qui s'adapte à l'os"
 version: 0.0.1
-homepage:
+author: Jean Bargibant<jbargibant59@pm.me>
+homepage: https://github.com/jeanbgt59/bargi_package
 
 environment:
   sdk: ^3.5.4
@@ -14,7 +15,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^4.0.0
+  flutter_lints: ^5.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
